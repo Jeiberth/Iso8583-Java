@@ -22,24 +22,6 @@ ISO 8583 is an international standard for financial transaction card-originated 
 - Java 8 or higher
 - Git
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/iso8583-parser.git
-   cd iso8583-parser
-   ```
-
-2. **Compile the project**
-   ```bash
-   javac iso/iso.java
-   ```
-
-3. **Run the application**
-   ```bash
-   java iso.iso
-   ```
-
 ### Usage
 
 1. Run the program
@@ -72,16 +54,6 @@ MTI                               6020            IfStatement
 Primary Bit Map                   8000000000000000 
 2. Primary Account Number         1612345678901234 IfStatement
 ... (more fields based on bitmap)
-```
-
-## 🏗️ Project Structure
-
-```
-iso8583-parser/
-├── iso/
-│   └── iso.java          # Main parser class
-├── README.md             # This file
-└── .gitignore           # Git ignore file
 ```
 
 ## 🔧 Key Methods
