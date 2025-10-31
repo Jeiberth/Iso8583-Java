@@ -110,10 +110,6 @@ The code is structured to allow easy extension for:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⚠️ Disclaimer
 
 This tool is for educational and development purposes. Always ensure compliance with financial regulations and security standards when working with real transaction data.
